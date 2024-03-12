@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>나의 소개</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #007bff;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+
+        h1 {
+            margin-top: 0;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 0 20px;
+        }
+
+        p {
+            line-height: 1.6;
+        }
+
+        footer {
+            text-align: center;
+            margin-top: 50px;
+            padding: 20px;
+            background-color: #007bff;
+            color: #fff;
+        }
+
+        footer p {
+            margin: 5px 0;
+        }
+
+        button {
+            padding: 10px 20px;
+            background-color: #007bff;
+            color: #fff;
+            border: none;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>안녕하세요! 나는 [여기에 이름을 입력]입니다.</h1>
+    </header>
+    <div class="container">
+        <p>저는 한국의 프로그래밍 교수이고, 소프트웨어와 게임 프로그래밍을 가르치고 있읍니다. HTML, CSS, JavaScript를 비롯한 다양한 웹 기술을 가르치는 것이 취미이기도 합니당.</p>
+        <p>자세한 정보를 알고 싶으시다면 아래 연락처로 연락해 주세요!</p>
+    </div>
+    <footer>
+        <p>이메일: [여기에 이메일 주소 입력]</p>
+        <p>전화번호: [여기에 전화번호 입력]</p>
+        <button onclick="changeBackgroundColor()">배경색 변경</button>
+    </footer>
+
+    <script>
+        function changeBackgroundColor() {
+            var body = document.body;
+            body.style.backgroundColor = getRandomColor();
+        }
+
+        function getRandomColor() {
+            var letters = '0123456789ABCDEF';
+            var color = '#';
+            for (var i = 0; i < 6; i++) {
+                color += letters[Math.floor(Math.random() * 16)];
+            }
+            return color;
+        }
+    </script>
+</body>
+</html>

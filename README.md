@@ -20,10 +20,10 @@
 
 #### 실습 2 
 
-[실습 2-1 first page]()
+[실습 2-1 first page](https://github.com/dknife/2024Web/blob/main/Codes/Lecture02/L2_01_firstPage.html)
 
-[실습 2-2 chat gpt generated html page]()
+[실습 2-2 chat gpt generated html page](https://github.com/dknife/2024Web/blob/main/Codes/Lecture02/L2_02_CHATGPT_page.html)
 
-[실습 2-3 div와 span]()
+[실습 2-3 div와 span](https://github.com/dknife/2024Web/blob/main/Codes/Lecture02/L2_03_DivAndSpan.html)
 
-[실습 2-4 리스트와 테이블]()
+[실습 2-4 리스트와 테이블](https://github.com/dknife/2024Web/blob/main/Codes/Lecture02/L2_04_list.html)

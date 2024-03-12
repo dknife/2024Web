@@ -15,3 +15,15 @@
 [강의노트 2 - HTML5 소개](https://github.com/dknife/2024Web/raw/main/LectureNotes/%EA%B0%95%EC%9D%98%EB%85%B8%ED%8A%B82_HTML%EA%B8%B0%EC%B4%88.pdf)
 
 [강의노트 2-2 - tags](https://github.com/dknife/2024Web/raw/main/LectureNotes/%EA%B0%95%EC%9D%98%EB%85%B8%ED%8A%B82_2_Tags.pdf)
+
+### 실습
+
+#### 실습 2 
+
+[실습 2-1 first page]()
+
+[실습 2-2 chat gpt generated html page]()
+
+[실습 2-3 div와 span]()
+
+[실습 2-4 리스트와 테이블]()

@@ -28,4 +28,4 @@
 
 [실습 2-4 리스트와 테이블](https://github.com/dknife/2024Web/blob/main/Codes/Lecture02/L2_04_list.html)
 
-[실습 2-5 웹 구조화와 웹폼 등](https://github.com/dknife/2024Web/blob/main/LectureNotes/%EA%B0%95%EC%9D%98%EB%85%B8%ED%8A%B83_semantics.pdf)
+[실습 2-5 웹 구조화와 웹폼 등](https://github.com/dknife/2024Web/raw/main/LectureNotes/%EA%B0%95%EC%9D%98%EB%85%B8%ED%8A%B83_semantics.pdf)

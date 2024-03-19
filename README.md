@@ -33,4 +33,4 @@
 
 #### 실습 3
 
-[실습 3-1 first links]()
+[실습 3-1 first links](https://github.com/dknife/2024Web/blob/main/Codes/Lecture3/firstLink.html)

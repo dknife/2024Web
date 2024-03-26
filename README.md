@@ -37,4 +37,4 @@
 
 [실습 3-2 inline frames](https://github.com/dknife/2024Web/tree/main/Codes/Lecture3/frames)
 
-[실습 3-2 semantic tages](https://github.com/dknife/2024Web/blob/main/LectureNotes/%EA%B0%95%EC%9D%98%EB%85%B8%ED%8A%B83_Semantics_Forms.pdf)
+[실습 3-2 semantic tages](https://github.com/dknife/2024Web/raw/main/LectureNotes/%EA%B0%95%EC%9D%98%EB%85%B8%ED%8A%B83_Semantics_Forms.pdf)

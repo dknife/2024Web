@@ -38,3 +38,11 @@
 [실습 3-2 inline frames](https://github.com/dknife/2024Web/tree/main/Codes/Lecture3/frames)
 
 [실습 3-2 semantic tages](https://github.com/dknife/2024Web/tree/main/Codes/Lecture3/semanticTags)
+
+#### 실습 4
+
+[단순한 폼](https://github.com/dknife/2024Web/blob/main/Codes/Lecture04/01_form.html)
+
+[액션 지정 폼](https://github.com/dknife/2024Web/blob/main/Codes/Lecture04/02_form_action.html)
+
+[액션과 파라미터 전달 폼](https://github.com/dknife/2024Web/blob/main/Codes/Lecture04/03_form_action_with_parameters.html)

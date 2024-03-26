@@ -46,3 +46,11 @@
 [액션 지정 폼](https://github.com/dknife/2024Web/blob/main/Codes/Lecture04/02_form_action.html)
 
 [액션과 파라미터 전달 폼](https://github.com/dknife/2024Web/blob/main/Codes/Lecture04/03_form_action_with_parameters.html)
+
+https://github.com/dknife/2024Web/blob/main/Codes/Lecture04/04_form_textArea.html
+
+https://github.com/dknife/2024Web/blob/main/Codes/Lecture04/05_map_search.html
+
+https://github.com/dknife/2024Web/blob/main/Codes/Lecture04/06_datalist_and_buttons.html
+
+https://github.com/dknife/2024Web/blob/main/Codes/Lecture04/07_checkbox_radio_select.html

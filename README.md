@@ -16,7 +16,7 @@
 
 [강의노트 2-2 - tags](https://github.com/dknife/2024Web/raw/main/LectureNotes/%EA%B0%95%EC%9D%98%EB%85%B8%ED%8A%B82_2_Tags.pdf)
 
-[강의노트 3 웹 구조화와 웹폼 등](https://github.com/dknife/2024Web/raw/main/LectureNotes/%EA%B0%95%EC%9D%98%EB%85%B8%ED%8A%B83_semantics.pdf)
+[강의노트 3 웹 구조화와 웹폼 등](https://github.com/dknife/2024Web/raw/main/LectureNotes/%EA%B0%95%EC%9D%98%EB%85%B8%ED%8A%B83_Semantics_Forms.pdf)
 
 ### 실습
 
@@ -37,4 +37,4 @@
 
 [실습 3-2 inline frames](https://github.com/dknife/2024Web/tree/main/Codes/Lecture3/frames)
 
-[실습 3-2 semantic tages](https://github.com/dknife/2024Web/raw/main/LectureNotes/%EA%B0%95%EC%9D%98%EB%85%B8%ED%8A%B83_Semantics_Forms.pdf)
+[실습 3-2 semantic tages]()

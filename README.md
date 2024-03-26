@@ -47,10 +47,10 @@
 
 [액션과 파라미터 전달 폼](https://github.com/dknife/2024Web/blob/main/Codes/Lecture04/03_form_action_with_parameters.html)
 
-[텍스트 영역]{https://github.com/dknife/2024Web/blob/main/Codes/Lecture04/04_form_textArea.html}
+[텍스트 영역](https://github.com/dknife/2024Web/blob/main/Codes/Lecture04/04_form_textArea.html)
 
-[지도 검색 연결]{https://github.com/dknife/2024Web/blob/main/Codes/Lecture04/05_map_search.html}
+[지도 검색 연결](https://github.com/dknife/2024Web/blob/main/Codes/Lecture04/05_map_search.html)
 
-[데이터 리스트와 버튼]{https://github.com/dknife/2024Web/blob/main/Codes/Lecture04/06_datalist_and_buttons.html}
+[데이터 리스트와 버튼](https://github.com/dknife/2024Web/blob/main/Codes/Lecture04/06_datalist_and_buttons.html)
 
-[체크박스, 라디오 버튼, 콤보박스]{https://github.com/dknife/2024Web/blob/main/Codes/Lecture04/07_checkbox_radio_select.html}
+[체크박스, 라디오 버튼, 콤보박스](https://github.com/dknife/2024Web/blob/main/Codes/Lecture04/07_checkbox_radio_select.html)

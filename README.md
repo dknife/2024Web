@@ -54,3 +54,8 @@
 [데이터 리스트와 버튼](https://github.com/dknife/2024Web/blob/main/Codes/Lecture04/06_datalist_and_buttons.html)
 
 [체크박스, 라디오 버튼, 콤보박스](https://github.com/dknife/2024Web/blob/main/Codes/Lecture04/07_checkbox_radio_select.html)
+
+[Color](https://github.com/dknife/2024Web/blob/main/Codes/Lecture04/08_various_form_elements.html)
+
+[JavaScript Example](https://github.com/dknife/2024Web/blob/main/Codes/Lecture04/09_multi_map_search.html)
+

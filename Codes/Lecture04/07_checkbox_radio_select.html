@@ -1,0 +1,33 @@
+<html>
+
+<body>
+	<form action='https://myserver.com/order'>
+
+		<h3> 주 메뉴 선택 </h3>
+		짜장면 <input type='checkbox' value='black' name='dish'>
+		<br>
+		짬뽕 <input type='checkbox' value='mixed' name='dish'>
+		<br>
+		탕수육 <input type='checkbox' value='sas' name='dish'>
+		<br>
+
+		<h3> 만두 추가 </h3>
+		군만두<input type='radio' value='군' name='dumpling'>
+		<br>
+		찐만두<input type='radio' value='찐' name='dumpling'>
+		<br>
+		물만두<input type='radio' value='물' name='dumpling'>
+
+		<h3> 돈 낼 사람 </h3>
+		<select name='payer'>
+			<option value='강영민'>강영민</option>
+			<option value='조미경' selected>조미경</option>
+			<option value='서미라'>서미라</option>
+			<option value='배재환'>배재환</option>
+			<option value='이승욱'>이승욱</option>
+		</select>
+
+		<input type='submit' value='주문'>
+	</form>
+</body>
+</html>

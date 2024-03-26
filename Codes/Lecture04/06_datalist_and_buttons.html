@@ -1,0 +1,28 @@
+<html>
+<body>
+	<h2>Data list와 이미지 버튼</h2>
+	<hr>
+	<form action='https://www.openstreetmap.org/search'>
+		가고 싶은 나라: <input type='text' list='countries' name='query'>
+		<datalist id='countries'>
+			<option value='가나'>
+			<option value='가봉'>
+			<option value='캐나다'>
+			<option value='나이지리아'>
+			<option value='에티오피아'>
+		</datalist>
+		<br>
+		가고 싶은 장소: <input type='text' list='places'>
+		<datalist id='places'>
+			<option value='산'>
+			<option value='바다'>
+			<option value='강'>
+			<option value='공원'>
+			<option value='도시'>
+		</datalist>
+		<br>
+		<button type='submit'><img src='./images/submit.jpg' height='40px'></button>
+		<button type='reset'><img src='./images/reset.jpg' height='40px'></button>
+	</form>
+</body>
+</html>

@@ -1,0 +1,37 @@
+<html>
+<head>
+	<script>
+	function os_form() {
+		var form = document.getElementById('search_map');
+		var location = encodeURIComponent(for.elements["query"].value)
+		var queryString = 'https://www.openstreetmap.org/search?'+location;
+		form.action = queryString;
+		form.submit();
+	}
+
+	function ge_form() {
+		var form = document.getElementById('search_map');
+		var location = encodeURIComponent(for.elements["query"].value)
+		var queryString = 'https://www.openstreetmap.org/search?'+location;
+		form.action = queryString;
+		form.submit();
+	}
+	</script>
+</head>
+
+<body>
+<h1> 지도 선택하여 검색 </h1>
+
+<form id='search_map' name='for'>
+	지도 검색 위치: <input type='text' value='위치 입력' id='query' name='query'><br>
+
+	<button type='button' onclick='os_form()'>
+	Open Street</button>
+	<button type='button' onclick='ge_form()'>
+	Google Earth</button>
+</form>
+</body>
+
+
+
+</html>
